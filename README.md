@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadentoh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning good in coding
+- 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
